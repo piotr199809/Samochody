@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Samochody</string>
+    <string name="action_search">Szukaj</string>
+    <string name="no_data">Brak wyników</string>
+    <string name="firebase_error">Wystąpił błąd podczas przetwarzania zapytania.</string>
+    <string name="activity_edit">Edycja</string>
+    <string name="activity_search">Szukaj</string>
+    <string name="activity_details">Szczegóły</string>
+    <string name="activity_new">Utwórz</string>
+    <string name="button_search">Szukaj</string>
+    <string name="search_field">Pole:</string>
+    <string name="details_doors">Liczba drzwi:</string>
+    <string name="details_production_year">Rok produkcji:</string>
+    <string name="details_weight">Masa:</string>
+    <string name="details_engine_power">Moc silnika:</string>
+    <string name="details_engine_type">Rodzaj silnika:</string>
+    <string name="details_car_type">Typ:</string>
+    <string name="create_brand">Marka</string>
+    <string name="create_engine_power">Moc silnika</string>
+    <string name="create_weight">Masa</string>
+    <string name="create_car_type">Typ</string>
+    <string name="create_production_year">Rok produkcji</string>
+    <string name="create_engine_type">Typ silnika</string>
+    <string name="create_doors">Liczba drzwi</string>
+    <string name="create_add">Dodaj</string>
+    <string name="create_model">Model</string>
+    <string name="save">Zapisz</string>
+
+    <string-array name="search_field">
+        <item>Marka</item>
+        <item>Model</item>
+        <item>Rok produkcji</item>
+        <item>Typ nadwozia</item>
+        <item>Typ silnika</item>
+    </string-array>
+
+    <string-array name="engine_type">
+        <item>Benzyna</item>
+        <item>Diesel</item>
+        <item>Elektryczny</item>
+    </string-array>
+
+    <string-array name="car_type">
+        <item>SUV</item>
+        <item>Coupe</item>
+        <item>Dual cowl</item>
+        <item>Fastback</item>
+        <item>Hatchback</item>
+        <item>Kabriolet</item>
+        <item>Kombi</item>
+        <item>Liftback</item>
+        <item>Limuzyna</item>
+        <item>Mikrovan</item>
+        <item>Minivan</item>
+        <item>Pick-up</item>
+        <item>Roadster</item>
+        <item>Sedan</item>
+        <item>Targa</item>
+        <item>Van</item>
+    </string-array>
+
+    <string-array name="doors_count">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+</resources>
